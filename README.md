@@ -20,3 +20,6 @@
 * ex1 - https://school.programmers.co.kr/learn/courses/30/lessons/133502
 * ex2 - https://school.programmers.co.kr/learn/courses/30/lessons/159994
 * ex3 - https://school.programmers.co.kr/learn/courses/30/lessons/135808
+* ex4 - https://school.programmers.co.kr/learn/courses/30/lessons/142086
+* ex5 - https://school.programmers.co.kr/learn/courses/30/lessons/60058
+* ex6 - https://school.programmers.co.kr/learn/courses/30/lessons/92334
