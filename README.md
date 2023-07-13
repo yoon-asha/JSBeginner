@@ -49,3 +49,8 @@
 * ex2 - https://school.programmers.co.kr/learn/courses/30/lessons/140108
 * ex3 - https://school.programmers.co.kr/learn/courses/30/lessons/42586
 * ex4 - https://school.programmers.co.kr/learn/courses/30/lessons/12946
+
+### week8
+* ex1 - https://school.programmers.co.kr/learn/courses/30/lessons/87389
+* ex2 - https://school.programmers.co.kr/learn/courses/30/lessons/131130
+* ex3 - https://school.programmers.co.kr/learn/courses/30/lessons/70129
