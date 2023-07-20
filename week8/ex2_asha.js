@@ -10,12 +10,12 @@ function solution(cards) {
         i = tmp - 1
         cnt++
       } else {
-        answer.push(cnt)
+        cnt > 0 ? answer.push(cnt) : ''
         break
       }
     }
   }
-  answer = answer.filter((el) => el != 0).sort((a, b) => b - a)
+  answer = answer.sort((a, b) => b - a)
 
   return answer.length > 1 ? answer[0] * answer[1] : 0
 }
