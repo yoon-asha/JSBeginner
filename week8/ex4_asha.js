@@ -53,7 +53,6 @@ function solution(maps) {
         maps[nx][ny] = 0
         queue.push([nx, ny, answer + 1])
       }
-      console.log(answer, queue, nx, ny, n, m)
     }
   }
   return -1
