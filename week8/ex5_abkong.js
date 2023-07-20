@@ -10,7 +10,7 @@ function solution(answers) {
     
     for (let i in answers) 
         for (let j in soopojaSubmits) 
-            if (answers[i] == soopojaSubmits[j][i]) soopojaAnswers[j]++;
+            if (answers[i] == soopojaSubmits[j][i % soopojaSubmits[j].length]) soopojaAnswers[j]++;
     for (let k in soopojaAnswers) 
         if (soopojaAnswers[k] == Math.max(...soopojaAnswers)) answer.push(parseInt(k) + 1);
     return answer;
