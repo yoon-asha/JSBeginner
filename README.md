@@ -62,3 +62,6 @@
 * ex1 - https://school.programmers.co.kr/learn/courses/30/lessons/68645
 * ex2 - https://school.programmers.co.kr/learn/courses/30/lessons/138476
 * ex3 - https://school.programmers.co.kr/learn/courses/30/lessons/12943
+* ex4 - https://school.programmers.co.kr/learn/courses/30/lessons/49993
+* ex5 - https://school.programmers.co.kr/learn/courses/30/lessons/42885
+* ex6 - https://school.programmers.co.kr/learn/courses/30/lessons/82612
